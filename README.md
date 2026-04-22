@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **lutzdan/lutzdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 Desarrolladora en crecimiento  
 🎨 Me gusta el diseño UI/UX  
-🚀 Construyendo proyectos con propósito  
+🚀 Building projects with purpose  
 
 ---
 
@@ -43,3 +43,30 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?lutzdan=TUUSUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lutzdan=TUUSUARIO&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?lutzdan=TUUSUARIO&theme=radical)
+
+<table>
+<tr>
+<td>
+
+### 🌱 Aprendiendo
+- Next.js  
+- Node.js  
+
+</td>
+<td>
+
+### 🚀 Proyectos
+- App de tareas  
+- Portafolio  
+
+</td>
+</tr>
+</table>
