@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 
 ---
 
+## 🛠️ Tecnologías
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
+
 <table>
 <tr>
 <td>
@@ -53,21 +63,13 @@ Here are some ideas to get you started:
 ## 💜 Intereses
 - 🌐 Desarrollo web
 - 🎨 Diseño UI/UX
-- 🧩 Resolución de problemas
-- 📚 Aprendizaje continuo
-- ⚡ Productividad
+- 🧩 Problem Resolution
+- 📚 Continiuos Learning
+- ⚡ Productivity
 
 ---
 
-## 🛠️ Tecnologías
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
-![Next.js](https://img.shields.io/badge/-Next.js-black)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
 
 
 
