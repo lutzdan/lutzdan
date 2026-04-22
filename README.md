@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?lutzdan=TUUSUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lutzdan=TUUSUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?lutzdan=TUUSUARIO&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=radical)
 
 <table>
 <tr>
