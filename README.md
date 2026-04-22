@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there!, I'm Daniela
+
+💻 Desarrolladora en crecimiento  
+🎨 Me gusta el diseño UI/UX  
+🚀 Construyendo proyectos con propósito  
+
+---
+
+## 🚀 What i'm working on
+- Mejorando mis proyectos personales
+- Learning FLutter Next.js y backend
+- Construyendo cosas útiles
+
+---
+
+## 💜 Intereses
+- 🌐 Desarrollo web
+- 🎨 Diseño UI/UX
+- 🧩 Resolución de problemas
+- 📚 Aprendizaje continuo
+- ⚡ Productividad
+
+---
+
+## 🛠️ Tecnologías
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
