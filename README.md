@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 ⚡ I like exploring new technologies  
 🚀 Building projects with purpose  
 
+<table>
+<tr>
+<td>
+
+### 🌱 Aprendiendo
+- Next.js  
+- Node.js  
+
 </td>
 <td>
 
@@ -31,6 +39,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🚀 I'm currently working on
@@ -62,12 +71,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=radical)
 
-<table>
-<tr>
-<td>
 
-### 🌱 Aprendiendo
-- Next.js  
-- Node.js  
 
 
