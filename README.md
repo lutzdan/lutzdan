@@ -36,29 +36,40 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Next.js](https://img.shields.io/badge/-Next.js-black)
-![Git](https://img.shields.io/badge/Git?logo=git)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
 
 
-![GitHub](https://img.shields.io/badge/GitHub-repo-blue?logo=github)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&theme=nightowl)
 
 <table>
+
+
+<tr>
+<td>
+  
+### 📊 GitHub Stats
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</td>
+</tr>
+
 <tr>
 <td>
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=nightowl)
+![](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight)
 
 </td>
 <td>
 
 ### 💥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=nightowl)
+![](https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight)
 
 </td>
 </tr>
