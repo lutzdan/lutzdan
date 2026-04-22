@@ -21,24 +21,7 @@ Here are some ideas to get you started:
 ⚡ I like exploring new technologies  
 🚀 Building projects with purpose  
 
-<table>
-<tr>
-<td>
 
-### 🌱 Aprendiendo
-- Next.js  
-- Node.js  
-
-</td>
-<td>
-
-### 🚀 Proyectos
-- App de tareas  
-- Portafolio  
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -48,6 +31,24 @@ Here are some ideas to get you started:
 - Building usefull things
 
 ---
+
+<table>
+<tr>
+<td>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=radical)
+
+</td>
+<td>
+
+### 💥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=radical)
+
+</td>
+</tr>
+</table>
 
 ## 💜 Intereses
 - 🌐 Desarrollo web
@@ -65,11 +66,10 @@ Here are some ideas to get you started:
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=radical)
+
 
 
 
