@@ -17,16 +17,26 @@ Here are some ideas to get you started:
 
 # 👋 Hi there!, I'm Daniela
 
-💻 Desarrolladora en crecimiento  
-🎨 Me gusta el diseño UI/UX  
+💻 Developer in development
+⚡ I like exploring new technologies  
 🚀 Building projects with purpose  
 
+</td>
+<td>
+
+### 🚀 Proyectos
+- App de tareas  
+- Portafolio  
+
+</td>
+</tr>
+</table>
 ---
 
-## 🚀 What i'm working on
+## 🚀 I'm currently working on
 - Mejorando mis proyectos personales
-- Learning FLutter Next.js y backend
-- Construyendo cosas útiles
+- Learning FLutter and backend
+- Building usefull things
 
 ---
 
@@ -60,13 +70,4 @@ Here are some ideas to get you started:
 - Next.js  
 - Node.js  
 
-</td>
-<td>
 
-### 🚀 Proyectos
-- App de tareas  
-- Portafolio  
-
-</td>
-</tr>
-</table>
