@@ -36,8 +36,12 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
+![Git](https://img.shields.io/badge/Git?logo=git)
+
+
+![GitHub](https://img.shields.io/badge/GitHub-repo-blue?logo=github)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
