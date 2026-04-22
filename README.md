@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there!, I'm Daniela
 
-💻 Developer in development
+💻 Developer in development  
 ⚡ I like exploring new technologies  
 🚀 Building projects with purpose  
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🚀 I'm currently working on
 - Mejorando mis proyectos personales
-- Learning FLutter and backend
+- Learning Flutter and backend
 - Building usefull things
 
 ---
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&theme=nightowl)
 
 <table>
 <tr>
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=nightowl)
 
 </td>
 <td>
 
 ### 💥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=nightowl)
 
 </td>
 </tr>
