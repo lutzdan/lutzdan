@@ -49,7 +49,7 @@ Passionate about technology, design and building solutions that truly matter.
 <tr>
 
 <!-- ── LEFT COLUMN ── -->
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 I'm currently working on
 
@@ -95,7 +95,7 @@ Passionate about technology, design and building solutions that truly matter.
 </td>
 
 <!-- ── RIGHT COLUMN ── -->
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### ⭐ Featured Project
 
