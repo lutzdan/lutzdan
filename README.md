@@ -10,11 +10,15 @@
 &nbsp;&nbsp; Passionate about technology, design and building solutions that truly matter.
 
 <br/>
-
+<div align="center">
+  
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Artificial%20Intelligence%20Engineering%20~%20Undergraduate-8b5cf6?style=for-the-badge)
 ![](https://img.shields.io/badge/-Eternal%20Learner-06b6d4?style=for-the-badge)
 ![](https://img.shields.io/badge/-Builder-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/-AI%20/%20ML-86b6d4?style=for-the-badge)
+
+</div>
 <!--![](https://img.shields.io/badge/-Frontend%20Developer-85cf6?style=for-the-badge)-->
 
 
@@ -97,14 +101,16 @@
 
 **🗂️ My Dev Portfolio**
 
-A personal space to showcase my projects,<br/>
-skills and growth as a developer.<br/>
-Focused on clean UI and purposeful code.
+A personal space to showcase my tech trajectory,<br/>
+skills and growth in this field.<br/>
+From the very beginning of this journey.
 
+<!--
+Focused on clean UI and purposeful code.
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+-->
 🔗 [Ver repositorio](https://github.com/lutzdan)
 
 </td></tr></table>
@@ -149,8 +155,11 @@ Focused on clean UI and purposeful code.
 ### 🌐 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lutz-64039b347)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
+<!--
+[![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+-->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 
 </td>
