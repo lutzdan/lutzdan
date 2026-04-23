@@ -4,13 +4,13 @@
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
-
+<div align="center">
+  
 ### 💻 About me
 
 &nbsp;&nbsp; Passionate about technology, design and building solutions that truly matter.
 
 <br/>
-<div align="center">
   
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Artificial%20Intelligence%20Engineering%20~%20Undergraduate-8b5cf6?style=for-the-badge)
@@ -144,23 +144,32 @@ Focused on clean UI and purposeful code.
 
 <br/>
 
+*"It's not about having the time,*
+*it's about making it count."*
+
+
+*"If you can imagine it, you can*
+*program it."*
+
+<!--
 > *"It's not about having the time,*
 > *it's about making it count."*
+-->
 
 <br/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lutz-64039b347)
 [![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 <!--
 [![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 
 </td>
 </tr>
