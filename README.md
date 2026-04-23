@@ -9,15 +9,16 @@
 
 ### 💻 About me
 
-&nbsp;&nbsp; Developer in development · passionate about technology,<br/>
-&nbsp;&nbsp; design and building solutions that truly matter.
+&nbsp;&nbsp; Passionate about technology, design and building solutions that truly matter.
 
 <br/>
 
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/-Frontend%20Developer-8b5cf6?style=flat-square)
-![](https://img.shields.io/badge/-Eternal%20Learner-06b6d4?style=flat-square)
-![](https://img.shields.io/badge/-Builder-10b981?style=flat-square)
+![](https://img.shields.io/badge/-Artificial%20Intelligence%20Engineering%20~%20Undergraduate-8b5cf6?style=for-the-badge)
+![](https://img.shields.io/badge/-Eternal%20Learner-06b6d4?style=for-the-badge)
+![](https://img.shields.io/badge/-Builder-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/-Frontend%20Developer-85cf6?style=for-the-badge)
+
 
 </td>
 
