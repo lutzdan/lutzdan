@@ -84,6 +84,7 @@ Passionate about technology, design and building solutions that truly matter.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-E9501B?style=for-the-badge&logo=MATLAB&logoColor=black)
 
 **Currently learning 🚀**
 
