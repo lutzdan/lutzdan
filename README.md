@@ -74,6 +74,9 @@ Passionate about technology, design and building solutions that truly matter.
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools**
 
@@ -143,12 +146,7 @@ Focused on clean UI and purposeful code.
 
 <br/>
 
-*"It's not about having the time,*
-*it's about making it count."*
-
-
-*"If you can imagine it, you can*
-*program it."*
+*"If you can imagine it, you can program it."*
 
 <!--
 > *"It's not about having the time,*
@@ -162,10 +160,12 @@ Focused on clean UI and purposeful code.
 
 ### 🌐 Let's connect
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lutz-64039b347)
-[![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
+[![DevPost](https://img.shields.io/badge/DevPost-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
 <!--
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 [![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 -->
@@ -178,8 +178,8 @@ Focused on clean UI and purposeful code.
 
 <div align="center">
 
-🌱 &nbsp; *I believe code can change the world, but people make it possible.*<br/>
-**Thanks for visiting my profile 💜**
+🌱 &nbsp; *I believe code can change the world, but people make it possible.* 🌱<br/>
+**Thanks for visiting my profile**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer"/>
 
