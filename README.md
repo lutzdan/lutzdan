@@ -102,7 +102,7 @@ Passionate about technology, design and building solutions that truly matter.
 
 <table><tr><td>
 
-**🗂️ My Dev Portfolio**
+**🗂️ My Portfolio**
 
 A personal space to showcase my tech trajectory,<br/>
 skills and growth in this field.<br/>
