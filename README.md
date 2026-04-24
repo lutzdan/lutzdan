@@ -165,6 +165,8 @@ Focused on clean UI and purposeful code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-lutz-64039b347/)
 [![DevPost](https://img.shields.io/badge/DevPost-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
+[![Kaggle](https://img.shields.io/badge/kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=blue)](https://devpost.com/lutzdan)
+
 <!--
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 [![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://twitter.com/)
