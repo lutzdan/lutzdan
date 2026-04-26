@@ -122,7 +122,9 @@ Focused on clean UI and purposeful code.
 
 ### 📊 GitHub Stats
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6)
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true)
 
