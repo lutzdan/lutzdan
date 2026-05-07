@@ -45,12 +45,12 @@ Passionate about technology, design and building solutions that truly matter.
 ---
 
 <!--  ═══════════════════  TWO-COLUMN MAIN LAYOUT  ═══════════════════ -->
-<table table-layout="fixed" width="100%">
+<table width="100%">
 <tr>
 
 <!-- ── LEFT COLUMN ── -->
 <td width="50%" valign="top">
-
+<img src="https://github.com/favicon.ico" width="1" height="1" style="display:none">
 
 ### 🚀 I'm currently working on
 
@@ -106,8 +106,7 @@ Passionate about technology, design and building solutions that truly matter.
 
 
 <!-- ── RIGHT COLUMN ── -->
-<td width="50%" valign="top">
-
+<td width="50%" align="center" valign="top">
 
 ### ⭐ Featured Project
 
@@ -141,23 +140,24 @@ Focused on clean UI and purposeful code.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutzdan)](https://github.com/lutzdan/github-readme-stats)
--->
-
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph/?username=lutzdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true)
+-->
 
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=lutzdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 
 ---
 
 
 ### 💥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight&hide_border=true) -->
 
+<img src="https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight&hide_border=true" width="100%">
 </td>
 </tr>
 </table>
