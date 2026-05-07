@@ -45,11 +45,12 @@ Passionate about technology, design and building solutions that truly matter.
 ---
 
 <!--  ═══════════════════  TWO-COLUMN MAIN LAYOUT  ═══════════════════ -->
-<table width="100%">
+<table table-layout="fixed" width="100%">
 <tr>
 
 <!-- ── LEFT COLUMN ── -->
 <td width="50%" valign="top">
+
 
 ### 🚀 I'm currently working on
 
@@ -74,6 +75,7 @@ Passionate about technology, design and building solutions that truly matter.
 ![Haskell](https://img.shields.io/badge/Haskell-9370DB?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-CC0000?style=for-the-badge&logo=prolog&logoColor=white)
 
+
 **Libraries & Frameworks**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -81,6 +83,7 @@ Passionate about technology, design and building solutions that truly matter.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 **Tools**
 
@@ -101,8 +104,10 @@ Passionate about technology, design and building solutions that truly matter.
 
 </td>
 
+
 <!-- ── RIGHT COLUMN ── -->
 <td width="50%" valign="top">
+
 
 ### ⭐ Featured Project
 
@@ -114,26 +119,40 @@ A personal space to showcase my tech trajectory,<br/>
 skills and growth in this field.<br/>
 From the very beginning of this journey.
 
+
 <!--
 Focused on clean UI and purposeful code.
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 -->
+
 🔗 [Ver repositorio](https://github.com/lutzdan)
+
 
 </td></tr></table>
 
 ---
 
+
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6)
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutzdan)](https://github.com/lutzdan/github-readme-stats)
+-->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph/?username=lutzdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
+
 
 ### 💥 GitHub Streak
 
@@ -144,6 +163,7 @@ Focused on clean UI and purposeful code.
 </table>
 
 ---
+
 
 <!--  ═══════════════════  MANTRA + CONNECT  ═══════════════════ -->
 <table width="100%" align="center">
