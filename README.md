@@ -108,9 +108,8 @@ Passionate about technology, design and building solutions that truly matter.
 <!-- ── RIGHT COLUMN ── -->
 <td width="50%" align="center" valign="top">
 
-### ⭐ Featured Project
+### ⭐ Featured Projects
 
-<table><tr><td>
 
 **🗂️ My Portfolio (Still in development)**
 
@@ -129,7 +128,6 @@ Focused on clean UI and purposeful code.
 🔗 [Ver repositorio](https://github.com/lutzdan)
 
 
-</td></tr></table>
 
 ---
 
