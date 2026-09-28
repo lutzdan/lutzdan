@@ -130,7 +130,7 @@ Passionate about Artificial Intelligence, Machine Learning, and building solutio
 **🗺️ DynaTravel (HackaTec 2026)**
 Flutter app that generates personalized travel itineraries using Word2Vec recommendations, semantic matrices, and Jaccard similarity coefficient. 
 <br/>
-🔗 [Ver repositorio](https://github.com/lutzdan)
+🔗 [Ver repositorio](https://github.com/lutzdan/DynaTravel-La-Paz)
 
 **👁️ Orca Vision (UABCS Lab)**
 Computer Vision project for identifying specific marine Orca specimens. Trained CNNs for bounding box detection, cropping, selection, and identification.
@@ -179,16 +179,29 @@ Focused on clean UI and purposeful code.
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight&hide_border=true) -->
 
 <img src="https://streak-stats.demolab.com/?user=lutzdan&theme=tokyonight&hide_border=true" width="100%">
-</td>
-</tr>
-</table>
+
 
 ---
 
+### 🌐 Let's connect
 
-<!--  ═══════════════════  MANTRA + CONNECT  ═══════════════════ -->
-<table width="100%" align="center">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-lutz-64039b347/)
+[![DevPost](https://img.shields.io/badge/DevPost-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
+[![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=&logoColor=blue)](https://www.kaggle.com/danielalutz)
+
+</td>
+</tr>
+
+</table>
+
+
 <!--
+---
+═══════════════════  MANTRA + CONNECT  ═══════════════════ 
+<table width="100%" align="center">
+
   <tr>
 <td width="50%" align="center" valign="top">
 ### 💜 My mantra
@@ -200,6 +213,8 @@ Focused on clean UI and purposeful code.
 <br/>
 </td>
   -->
+
+<!--
 <td width="50%" align="center" valign="top">
 
 ### 🌐 Let's connect
@@ -210,11 +225,9 @@ Focused on clean UI and purposeful code.
 [![DevPost](https://img.shields.io/badge/DevPost-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/lutzdan)
 [![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=&logoColor=blue)](https://www.kaggle.com/danielalutz)
 
-<!--
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutzdan)
 [![DevPost](https://img.shields.io/badge/DevPost%2FX-000000?style=for-the-badge&logo=Devpost&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
--->
 
 </td>
 </tr>
@@ -223,9 +236,10 @@ Focused on clean UI and purposeful code.
 ---
 
 <div align="center">
-
+<!--
 🌱 &nbsp; *I believe code can change the world, but people make it possible.* 🌱<br/>
 **Thanks for visiting my profile**
+-->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer"/>
 
