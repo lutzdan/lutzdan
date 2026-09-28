@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=250&section=header&text=Hi!%20%F0%9F%91%8B%20I%27m%20Daniela&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20in%20development%20%C2%B7%20Exploring%20tech%20%C2%B7%20Building%20with%20purpose&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=250&section=header&text=Hi!%20%F0%9F%91%8B%20I%27m%20Daniela&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%C2%B7%20Developer%20in%20development%20%C2%B7%20Building%20with%20purpose&descAlignY=60&descSize=17"/>
 
 <!--  ═══════════════════  INTRO ROW  ═══════════════════ -->
 <table width="100%" align="center">
@@ -8,15 +8,14 @@
   
 ### 💻 About me
 
-Passionate about technology, design and building solutions that truly matter.
+Passionate about Artificial Intelligence, Machine Learning, and building solutions that truly matter. Currently pursuing a B.Eng. in Artificial Intelligence at Instituto Tecnológico de La Paz.
 
 <br/>
   
-![](https://img.shields.io/badge/-Artificial%20Intelligence%20Engineering%20~%20Undergraduate-8b5cf6?style=for-the-badge)
-![](https://img.shields.io/badge/-Eternal%20Learner-06b6d4?style=for-the-badge)
+![](https://img.shields.io/badge/-AI%20Engineering%20Undergraduate-8b5cf6?style=for-the-badge)
 ![](https://img.shields.io/badge/-Builder-10b981?style=for-the-badge)
-![](https://img.shields.io/badge/-AI%20/%20ML-86b6d4?style=for-the-badge)
-
+![](https://img.shields.io/badge/-AI%20/%20ML%20Enthusiast-86b6d4?style=for-the-badge)
+![](https://img.shields.io/badge/-English%20C1-blue?style=for-the-badge)
 </div>
 <!--![](https://img.shields.io/badge/-Frontend%20Developer-85cf6?style=for-the-badge)-->
 
@@ -54,11 +53,11 @@ Passionate about technology, design and building solutions that truly matter.
 
 ### 🚀 I'm currently working on
 
-- 📦 Improving my personal projects
-- 📱 Learning Flutter and backend
-- 🔨 Building useful things
-- 📝 Documenting my progress
-- 🌐 Growing my brand as a developer
+- 📦 **DynaTravel:** Flutter app for dynamic itineraries (Word2Vec, Jaccard similarity).
+- 👁️ **Orca Vision:** CNN-based bounding box detection for marine life identification.
+- 📱 **HackaTec Projects:** Building AI agents and predictive models.
+- 🧠 **Deep Learning:** Strengthening my ML/DL foundations through active coursework.
+- 📝 Documenting my progress and growing my brand as a developer.
 
 ---
 
@@ -67,25 +66,38 @@ Passionate about technology, design and building solutions that truly matter.
 **Languages**
 
 ![C](https://img.shields.io/badge/C%20-004482?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge)
 ![Haskell](https://img.shields.io/badge/Haskell-9370DB?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-CC0000?style=for-the-badge&logo=prolog&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)-->
+<!--![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 
 
 **Libraries & Frameworks**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!--
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+-->
 
 
-**Tools**
+**Tools, Cloud & Databases**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,11 +105,16 @@ Passionate about technology, design and building solutions that truly matter.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E9501B?style=for-the-badge&logo=MATLAB&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 **Currently learning 🚀**
 
-![](https://img.shields.io/badge/Flutter-learning-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/RAG-learning-8b5cf6?style=flat-square)
+![](https://img.shields.io/badge/Vector%20Databases-learning-06b6d4?style=flat-square)
+![](https://img.shields.io/badge/Docker-learning-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-learning-339933?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Databases-learning-FF6B6B?style=flat-square)
 ![](https://img.shields.io/badge/Testing-learning-6B8CFF?style=flat-square)
@@ -110,6 +127,15 @@ Passionate about technology, design and building solutions that truly matter.
 
 ### ⭐ Featured Projects
 
+**🗺️ DynaTravel (HackaTec 2026)**
+Flutter app that generates personalized travel itineraries using Word2Vec recommendations, semantic matrices, and Jaccard similarity coefficient. 
+<br/>
+🔗 [Ver repositorio](https://github.com/lutzdan)
+
+**👁️ Orca Vision (UABCS Lab)**
+Computer Vision project for identifying specific marine Orca specimens. Trained CNNs for bounding box detection, cropping, selection, and identification.
+<br/>
+🔗 [Ver repositorio](https://github.com/lutzdan)
 
 **🗂️ My Portfolio (Still in development)**
 
@@ -131,10 +157,10 @@ Focused on clean UI and purposeful code.
 
 ---
 
-
+<!--
 ### 📊 GitHub Stats
 
-<!--
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutzdan)](https://github.com/lutzdan/github-readme-stats)
@@ -142,14 +168,11 @@ Focused on clean UI and purposeful code.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph/?username=lutzdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true)
--->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=lutzdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lutzdan&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 
 ---
-
+-->
 
 ### 💥 GitHub Streak
 
@@ -165,23 +188,18 @@ Focused on clean UI and purposeful code.
 
 <!--  ═══════════════════  MANTRA + CONNECT  ═══════════════════ -->
 <table width="100%" align="center">
-<tr>
+<!--
+  <tr>
 <td width="50%" align="center" valign="top">
-
 ### 💜 My mantra
-
-<br/>
-
+<br/> -->
 <!--*"If you can imagine it, you can program it."*-->
-
-
+  <!--
 > *"It's not about having the time,*
 > *it's about making it count."*
-
-
 <br/>
-
 </td>
+  -->
 <td width="50%" align="center" valign="top">
 
 ### 🌐 Let's connect
